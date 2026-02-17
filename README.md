@@ -1,6 +1,7 @@
 # :earth_americas: GDP dashboard template
 
 AUTHOR/DEVELOPER : A VINAY KUMAR
+MAIL : avinaykumar2004@gmail.com
 
 A simple Streamlit app showing the GDP of different countries in the world.
 
