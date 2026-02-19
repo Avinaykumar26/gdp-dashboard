@@ -6,6 +6,8 @@ AUTHOR/DEVELOPER : A VINAY KUMAR <br>
 MAIL : avinaykumar2004@gmail.com <br>
 LinkedIn : www.linkedin.com/in/a-vinay-kumar-xyz
 
+#Code
+
 A simple Streamlit app showing the GDP of different countries in the world.
 
 [![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://gdp-dashboard-template.streamlit.app/)
