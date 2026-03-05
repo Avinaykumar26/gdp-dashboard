@@ -2,9 +2,9 @@
 
 # ABOUT
 
-AUTHOR / DEVELOPER : A VINAY KUMAR <br>
-MAIL : avinaykumar2004@gmail.com <br>
-LinkedIn : www.linkedin.com/in/a-vinay-kumar-xyz
+- AUTHOR / DEVELOPER : A VINAY KUMAR <br>
+- MAIL : avinaykumar2004@gmail.com <br>
+- LinkedIn : www.linkedin.com/in/a-vinay-kumar-xyz
 
 # Code
 
